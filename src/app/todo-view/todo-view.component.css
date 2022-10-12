@@ -1,0 +1,6 @@
+.todo-view {
+  margin-inline: auto;
+  width: min(60ch, 90vw);
+  background-color: var(--bg-secondary);
+  box-shadow: 0 .2rem .6rem var(--shadow);
+}

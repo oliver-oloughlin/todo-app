@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --bg-primary: hsl(0 5% 95%);
+  --bg-secondary: hsl(0 0% 100%);
+  --shadow: hsl(0 0% 0% / .25);
+  --padding: .5rem 1rem;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
